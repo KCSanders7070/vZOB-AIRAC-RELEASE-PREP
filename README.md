@@ -2,6 +2,8 @@
 
 The **AIRAC Release Prep** program is a .NET console application designed to streamline the preparation and processing of FE-BUDDY_Output GeoJSON files for AIRAC releases. It supports folder validation, GeoJSON transformation, and the inclusion of default features in the output files.
 
+## [DOWNLOAD](https://github.com/KCSanders7070/vZOB-AIRAC-RELEASE-PREP/releases/latest/download/vZOB-AIRAC-RELEASE-PREP.exe)
+
 ## Features
 
 1. **FE-BUDDY_Output Folder Detection**
